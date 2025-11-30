@@ -1,0 +1,8 @@
+{
+  "name": "SecureChat AI",
+  "description": "A secure, managed chat application with Admin controls, user management, and advanced Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
